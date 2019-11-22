@@ -5,6 +5,7 @@ We used a hasmap of arraylist to track the nodes and edges .
 each station with a line form a node in the graph .
 we used the traditional heurestic function which the distance function ! 
 `G.Astar("U Uhlandstr", "U1", "U Gleisdreieck", "U3");`
+
 Total distance traveled: 14.0
 1: U Uhlandstr U1
 2: U Kurfürstendamm U1
@@ -13,6 +14,8 @@ Total distance traveled: 14.0
 5: U Kurfürstenstr U1
 6: U Gleisdreieck U1
 7: U Gleisdreieck U3
+
+
 `G.dfs("U Uhlandstr", "U1", "U Gleisdreieck", "U3");`
 
 [U Uhlandstr U1, U Kurfürstendamm U1, U Kurfürstendamm U1, U Wittenbergplatz U1, U Wittenbergplatz U1, U Nollendorfplatz U1, U Nollendorfplatz U1, U Kurfürstenstr U1, U Kurfürstenstr U1, U Gleisdreieck U1, U Gleisdreieck U1, U Möckernbrücke U1, U Möckernbrücke U1, U Hallesches Tor U1, U Hallesches Tor U1, U Prinzenstr U1, U Prinzenstr U1, U Kottbusser Tor U1, U Kottbusser Tor U1, U Görlitzer Bahnhof U1, U Görlitzer Bahnhof U1, U Schlesisches Tor U1, U Schlesisches Tor U1, U Schlesisches Tor U3, U Schlesisches Tor U3, U Görlitzer Bahnhof U3, U Görlitzer Bahnhof U3, U Kottbusser Tor U3, U Kottbusser Tor U3, U Prinzenstr U3, U Prinzenstr U3, U Hallesches Tor U3, U Hallesches Tor U3, U Möckernbrücke U3, U Möckernbrücke U3, U Gleisdreieck U3]

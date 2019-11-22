@@ -1,7 +1,7 @@
 # AIPROJECT1
 i. Description of your understanding of the problem
 The Project concern is about finding the path between two UBAHN stations .
-We used a hasmap of arraylist to track the nodes and edges .
+We used a HashMap of arraylist to track the nodes and edges .
 each station with a line form a node in the graph .
 we used the traditional heurestic function which the distance function ! 
 `G.Astar("U Uhlandstr", "U1", "U Gleisdreieck", "U3");`

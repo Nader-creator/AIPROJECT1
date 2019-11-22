@@ -7,13 +7,13 @@ we used the traditional heurestic function which the distance function !
 `G.Astar("U Uhlandstr", "U1", "U Gleisdreieck", "U3");`
 
 Total distance traveled: 14.0
-[1: U Uhlandstr U1
+1: U Uhlandstr U1
 2: U Kurfürstendamm U1
 3: U Wittenbergplatz U1
 4: U Nollendorfplatz U1
 5: U Kurfürstenstr U1
 6: U Gleisdreieck U1
-7: U Gleisdreieck U3]
+7: U Gleisdreieck U3
 
 
 `G.dfs("U Uhlandstr", "U1", "U Gleisdreieck", "U3");`

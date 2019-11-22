@@ -28,7 +28,7 @@ Total distance traveled: 14.0
 
 A* expands less nodes than dfs and bfs and get to the result much faster than (DFS & BFS )
 
-Hazem Abdelalim 37-18002
-Ali Sayed Mohamed 37-5612
-Nader Ramsis 37-318 
-Abadir Hany 
+# Hazem Abdelalim 37-18002
+# Ali Sayed Mohamed 37-5612
+# Nader Ramsis 37-318 
+# Abadir Hany 
